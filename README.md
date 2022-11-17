@@ -3,6 +3,7 @@
 
 > Udemy üzerinden aldığım "Modern Web Geliştirme" kursunun, React ile alakalı bölümünü içeren çalışmadır.
 <br>
+
 > Json dosyamızın aktif olması için terminalde şu komutu çalıştırmayı unutmayalım:
 
 ```bash
